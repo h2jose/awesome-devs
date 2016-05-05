@@ -7,7 +7,6 @@ A curated list of awesome references related to Devs ~ DevOps ~ nice stuff
 
 - [Official Guide](https://docs.angularjs.org/guide)
 - [A Developer Diary](http://www.adeveloperdiary.com/category/angular-js/angular-1-x)
-- [Laravel 5 AngularJS Tutorial](http://www.tutorials.kode-blog.com/laravel-5-angularjs-tutorial)
 - [Angular-Validation Directive|Service (ghiscoding)](http://plnkr.co/jADq7H)
 
 
@@ -16,8 +15,23 @@ A curated list of awesome references related to Devs ~ DevOps ~ nice stuff
 
 ## LARAVEL
 
+#### Packages
+- [Countries](https://github.com/webpatser/laravel-countries)
+- [Medialibrary](https://docs.spatie.be/laravel-medialibrary/v4/introduction)
+- [Newsletter](https://github.com/spatie/laravel-newsletter)
+- [user-email-verification](https://github.com/edvinaskrucas/laravel-user-email-verification)
+
+
 #### ApiRest
 - [RESTfulAPI.nl](http://www.restfulapi.nl/#api_demos)
+- [laravel-cors](https://github.com/barryvdh/laravel-cors)
+- [Laravel Angular Material Starter](http://www.laravel-angular.io/)
+
+#### w/AngularJS
+- [Laravel 5 AngularJS Tutorial](http://www.tutorials.kode-blog.com/laravel-5-angularjs-tutorial)
+- [Using Laravel Blade with AngularJS](https://scotch.io/tutorials/quick-tip-using-laravel-blade-with-angularjs)
+- [Create a Laravel and Angular Single Page Comment Application] (https://scotch.io/tutorials/create-a-laravel-and-angular-single-page-comment-application)
+- [starter-laravel-angular](https://github.com/Zemke/starter-laravel-angular)
 
 
 ## GIT
@@ -25,6 +39,12 @@ A curated list of awesome references related to Devs ~ DevOps ~ nice stuff
 #### Tutorials
 - [git - la guía sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
 
+
+## JAVASCRIPT
+
+#### BOTS
+
+- [Rise of the Bots ~ Rafael Casuso ](http://slides.com/rafaelcasusoromate/rise-of-the-bots-1#/)
 
 
 ## License
