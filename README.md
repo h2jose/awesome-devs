@@ -4,25 +4,19 @@ A curated list of awesome references related to Devs ~ DevOps ~ nice stuff
 
 ## LARAVEL
 
-#### Packages
+### Tutorials
+- [laravel5-3-example](https://github.com/h2jose/laravel5-3-example)
+
+### Packages
 - [Countries](https://github.com/webpatser/laravel-countries)
 - [Medialibrary](https://docs.spatie.be/laravel-medialibrary/v4/introduction)
 - [Newsletter](https://github.com/spatie/laravel-newsletter)
 - [user-email-verification](https://github.com/edvinaskrucas/laravel-user-email-verification)
 
-
-#### ApiRest
+### ApiRest
 - [RESTfulAPI.nl](http://www.restfulapi.nl/#api_demos)
 - [laravel-cors](https://github.com/barryvdh/laravel-cors)
 - [Laravel Angular Material Starter](http://www.laravel-angular.io/)
-
-### w/VueJS
-
-#### w/AngularJS
-- [Laravel 5 AngularJS Tutorial](http://www.tutorials.kode-blog.com/laravel-5-angularjs-tutorial)
-- [Using Laravel Blade with AngularJS](https://scotch.io/tutorials/quick-tip-using-laravel-blade-with-angularjs)
-- [Create a Laravel and Angular Single Page Comment Application] (https://scotch.io/tutorials/create-a-laravel-and-angular-single-page-comment-application)
-- [starter-laravel-angular](https://github.com/Zemke/starter-laravel-angular)
 
 ## VueJS
 
@@ -56,6 +50,13 @@ A curated list of awesome references related to Devs ~ DevOps ~ nice stuff
 
 #### Themes & Templates
 - [Start Angular](http://startangular.com/)
+
+#### w/Laravel
+- [Laravel 5 AngularJS Tutorial](http://www.tutorials.kode-blog.com/laravel-5-angularjs-tutorial)
+- [Using Laravel Blade with AngularJS](https://scotch.io/tutorials/quick-tip-using-laravel-blade-with-angularjs)
+- [Create a Laravel and Angular Single Page Comment Application] (https://scotch.io/tutorials/create-a-laravel-and-angular-single-page-comment-application)
+- [starter-laravel-angular](https://github.com/Zemke/starter-laravel-angular)
+
 
 
 
